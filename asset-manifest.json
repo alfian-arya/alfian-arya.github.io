@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.67884418.css",
-    "main.js": "/static/js/main.e34109cb.js",
+    "main.js": "/static/js/main.b52d8d47.js",
     "static/media/logo-puskesmas-full.png": "/static/media/logo-puskesmas-full.1063189047b28dab930b.png",
     "index.html": "/index.html",
     "main.67884418.css.map": "/static/css/main.67884418.css.map",
-    "main.e34109cb.js.map": "/static/js/main.e34109cb.js.map"
+    "main.b52d8d47.js.map": "/static/js/main.b52d8d47.js.map"
   },
   "entrypoints": [
     "static/css/main.67884418.css",
-    "static/js/main.e34109cb.js"
+    "static/js/main.b52d8d47.js"
   ]
 }
